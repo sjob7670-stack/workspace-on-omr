@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://visalamtech.com/sitemap.xml
