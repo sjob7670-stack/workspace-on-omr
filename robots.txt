@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://workspace.visalamtech.com/sitemap.xml
+Sitemap: https://sjob7670-stack.github.io/workspace-on-omr/sitemap.xml
